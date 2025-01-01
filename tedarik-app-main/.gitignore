@@ -1,0 +1,46 @@
+# Flutter build output
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Firebase config files (hassas bilgiler)
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+lib/services/firebase_options
+lib/firebase_options
+firebase_options.dart
+lib/services/auth_service.dart
+lib/services/database_service.dar
+
+
+# Android build output
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# iOS build output
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Flutter.framework
+
+# Platform-specific build folders
+linux/build/
+macos/build/
+web/build/
+windows/build/
+
+# User-specific files
+.idea/
+.vscode/
+*.log
+*.swp
+*.lock
+*.DS_Store
+
+# Dart and package files
+.dart_tool/
+.packages
+.pub/

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "618697151124",
+    "firebase_url": "https://tedarik-app-default-rtdb.firebaseio.com",
+    "project_id": "tedarik-app",
+    "storage_bucket": "tedarik-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618697151124:android:70d7587a59f9c8c0bd9a81",
+        "android_client_info": {
+          "package_name": "com.example.tedarikapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgJnT6idsSNXC5roBIC9-fSzK6T3DrDXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
